@@ -24,6 +24,6 @@ Book discussions here are original commentary and research notes. Bibliographic 
 
 Request a source verification, a focused English research pack, a comparison of documents or a comparative book-and-evidence review. Send the question, scope and relevant public links. Fee and delivery are agreed before work begins.
 
-[Contact Falah Mousa](https://falahmousa.com/contact/) · [Support free research resources](https://ko-fi.com/falahmousa)
+[Contact Falah Mousa](https://falahmousa.com/contact/)
 
 Do not post confidential documents or private client material in this public repository.
