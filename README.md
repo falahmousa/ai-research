@@ -26,6 +26,10 @@ Research materials are prepared with human review. **These pages are not an auto
 
 The Python-based Book Research Helper provides public Open Library metadata; it does **not** read books, generate proprietary summaries or establish that a claim is true. Blinkist links in the project are informational, **not affiliate links**.
 
+## Books and article downloads
+
+Browse [Falah Mousa's Ko-fi shop](https://ko-fi.com/falahmousa/shop) for available ebooks and downloadable articles. Each listing shows its edition, price and included files. You can also [explore all books and purchase options](https://falahmousa.com/books/) on the author's website.
+
 ## Commission research or professional writing
 
 I undertake source and claim reviews, comparative research briefs, Arabic-to-English research packs, nonfiction book-and-evidence reviews, and original writing or editorial assignments.
