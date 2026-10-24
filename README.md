@@ -1,8 +1,10 @@
-# AI Research
+# Analysis Tools
 
 **Original research guides, source-verification methods and practical tools by Falah Mousa.**
 
-AI Research helps writers, journalists, researchers and organisations examine evidence, check published claims and organise research. Areas covered include AI and technology, books, cultural and social issues, international affairs, and Arabic-language sources.
+Analysis Tools help writers, journalists, researchers and organisations examine evidence, check published claims and organise research. Areas covered include AI and technology, books, cultural and social issues, international affairs, and Arabic-language sources.
+
+Explore the [Analysis Tools collection on Falah Mousa’s website](https://falahmousa.com/ai-research/) or use [StatementWatch](https://falahmousa.com/statementwatch/) to compare Arabic statements and their English translations without a ChatGPT account.
 
 Research materials are prepared with human review. **These pages are not an automated fact-checking service**, and reading a guide does not replace independent examination of the evidence.
 
@@ -37,7 +39,7 @@ I undertake source and claim reviews, comparative research briefs, Arabic-to-Eng
 - [See example deliverables and how assignments work](guides/commission-research.md)
 - **[Request a quote for a defined project](https://falahmousa.com/contact/)**
 - [Read about research and advisory services](https://falahmousa.com/research/)
-- [Visit the AI Research page](https://falahmousa.com/ai-research/)
+- [Visit the Analysis Tools page](https://falahmousa.com/ai-research/)
 
 Please describe the question, the intended audience, relevant public sources, desired output and deadline. **Scope, fee and delivery are agreed before any work begins.** No subscription or donation is required to read these public resources.
 
