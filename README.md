@@ -4,7 +4,7 @@
 
 Analysis Tools help writers, journalists, researchers and organisations examine evidence, check published claims and organise research. Areas covered include AI and technology, books, cultural and social issues, international affairs, and Arabic-language sources.
 
-Explore the [Analysis Tools collection on Falah Mousa’s website](https://falahmousa.com/ai-research/) or use [StatementWatch](https://falahmousa.com/statementwatch/) to compare Arabic statements and their English translations without a ChatGPT account.
+Explore the [Analysis Tools collection on Falah Mousa’s website](https://falahmousa.com/ai-research/) or use [StatementWatch](https://falahmousa.com/statementwatch/) to compare Arabic statements and their English translations. Both are free and need no account. Free web versions of the research tools: [Source Checker](https://statementwatch.falahmousa.workers.dev/tools/source-checker) and [Book Research Helper](https://statementwatch.falahmousa.workers.dev/tools/book-research).
 
 Research materials are prepared with human review. **These pages are not an automated fact-checking service**, and reading a guide does not replace independent examination of the evidence.
 
@@ -26,7 +26,7 @@ Research materials are prepared with human review. **These pages are not an auto
 
 **Books & Evidence.** Compare arguments made in nonfiction books with academic literature, historical sources and primary documentation. The collection begins with [elections and institutional accountability](books-evidence/democracy-elections.md), alongside a [research bibliography](books-evidence/bibliography.csv).
 
-The Python-based Book Research Helper provides public Open Library metadata; it does **not** read books, generate proprietary summaries or establish that a claim is true. Blinkist links in the project are informational, **not affiliate links**.
+The Python-based Book Research Helper provides public Open Library metadata; it does **not** read books, generate proprietary summaries or establish that a claim is true. Book links point to the free Open Library catalogue. They are not affiliate links.
 
 ## Books and article downloads
 

@@ -4,7 +4,7 @@
 
 An election gives a government authority to govern for a limited period. It does not give that government authority to make future elections unfair or to prevent courts, journalists and legislatures from examining its actions. The relevant distinction is between exercising an electoral mandate and changing the conditions under which political opponents can compete.
 
-This brief is an original comparison of published arguments and publicly available evidence. It is **not a quotation or reproduction of a Blinkist summary**, and it does not treat a book's interpretation as proof of a factual claim.
+This brief is an original comparison of published arguments and publicly available evidence. It does not quote or reproduce any book summary, and it does not treat a book's interpretation as proof of a factual claim.
 
 ## 1. What the books help us ask
 
@@ -63,10 +63,10 @@ Elections are necessary to democracy, but they are not its only safeguard. The b
 - [Graham and Svolik, democracy and partisan trade-offs (2020)](https://doi.org/10.1017/S0003055420000052). Peer-reviewed study, US scope.
 - [Mudde and Rovira Kaltwasser, _Populism_ (Oxford University Press)](https://academic.oup.com/book/866). Publisher bibliographic information.
 - [Applebaum, _Twilight of Democracy_ (Penguin Random House)](https://www.penguinrandomhouse.com/books/621076/twilight-of-democracy-by-anne-applebaum/). Publisher information.
-- [Levitsky and Ziblatt, _How Democracies Die_ (Blinkist catalogue)](https://www.blinkist.com/books/how-democracies-die-en). Condensed reading service, **not** the full book.
-- [Hett, _The Death of Democracy_ (Blinkist catalogue)](https://www.blinkist.com/books/the-death-of-democracy-en). Catalogue reference only; the full Blinkist reader was not available during the earlier review.
+- [Levitsky and Ziblatt, _How Democracies Die_ (Open Library catalogue)](https://openlibrary.org/search?title=How+Democracies+Die&author=Levitsky). Catalogue record for finding the book.
+- [Hett, _The Death of Democracy_ (Open Library catalogue)](https://openlibrary.org/search?title=The+Death+of+Democracy&author=Hett). Catalogue reference only; the full book was not reviewed.
 
-The last two Blinkist URLs are informational only, **not paid or affiliate links**. We do not reproduce any Blinkist content in this file.
+The last two links go to the free Open Library catalogue. They are not paid or affiliate links.
 
 ## Request tailored work
 

@@ -19,6 +19,6 @@ For an overview of existing services, visit [AI Research](https://falahmousa.com
 
 ## Rights and independence
 
-The documents are original commentary and research aids. Book titles and brief bibliographic facts are provided for identification. We do not reproduce paywalled books, paid Blinkist summaries, or Blinkist audio. Links to Blinkist are informational and **not affiliate links**; no Blinkist affiliate partnership is active. Do not upload private client documents or personally identifying data to public GitHub issues.
+The documents are original commentary and research aids. Book titles and brief bibliographic facts are provided for identification. We do not reproduce paywalled books, paid Blinkist summaries, or Blinkist audio. Book links go to the free Open Library catalogue and are not affiliate links. Do not upload private client documents or personally identifying data to public GitHub issues.
 
 Prepared 8 October 2026. © Falah Mousa. All rights reserved except where a separate licence is explicitly stated.
